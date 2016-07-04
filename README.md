@@ -8,7 +8,6 @@ The principal objective is to implement a .Net WebPi with the following caracter
 - Unity of Work design pattern (For repository)
 - Service implementation
 - OAuth security
-- 
 
 Let's  see how it goes!
 
